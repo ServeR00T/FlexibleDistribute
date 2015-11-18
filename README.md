@@ -30,5 +30,5 @@ $FD->removeNode('192.168.1.150');
 
 ##Consistent Hashing explained
 
-  * http://www.spiteful.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
+  * http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
   * http://www.tom-e-white.com/2007/11/consistent-hashing.html
