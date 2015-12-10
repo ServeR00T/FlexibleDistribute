@@ -28,6 +28,11 @@ $FD->getNode("a");
 $FD->removeNode('192.168.1.150');
 ```
 
+##TODO
+
+ - Binary search in getNode method
+ - add weight to host
+
 ##Consistent Hashing explained
 
   * http://www.spiteful.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
