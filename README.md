@@ -33,6 +33,10 @@ $FD->removeNode('192.168.1.150');
  - Binary search in getNode method
  - add weight to host as an array
 
+##Contribution
+
+feel free to contact me to contribute with me.
+
 ##Consistent Hashing explained
 
   * http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
